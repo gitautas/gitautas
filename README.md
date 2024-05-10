@@ -1,1 +1,1 @@
-<img src="[https://tzal.org/img/slavoj-iek-hipster-quackery-onpage.jpg](https://tzal.org/img/slavoj-zizek-hipster-quackery-onpage.webp)](https://tzal.org/img/slavoj-zizek-hipster-quackery-onpage.webp)" alt="Slovenian philosopher Slavoj Zizek laying in bed" width="300"/>
+<img src="[[https://tzal.org/img/slavoj-zizek-hipster-quackery-onpage.webp](https://tzal.org/img/slavoj-zizek-hipster-quackery-onpage.webp)](https://tzal.org/img/slavoj-zizek-hipster-quackery-onpage.webp)" alt="Slovenian philosopher Slavoj Zizek laying in bed" width="300"/>
